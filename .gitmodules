@@ -1,0 +1,6 @@
+[submodule "PokemonBrowser-RN"]
+	path = PokemonBrowser-RN
+	url = https://github.com/MattOfficial/PokemonBrowser-RN
+[submodule "PokemonBrowser-RJS"]
+	path = PokemonBrowser-RJS
+	url = https://github.com/MattOfficial/PokemonBrowser-RJS
